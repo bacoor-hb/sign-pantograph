@@ -8,6 +8,13 @@
   },
   "author": "tantai@bacoor.co",
   "license": "ISC",
+  "keywords": [
+    "tomo chain",
+    "wallet",
+    "blockchain",
+    "address",
+    "tomo wallet"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/bacoor-hb/sign-pantograph"
