@@ -6,9 +6,6 @@ async connectWallet(){
   console.log('window.tomoWeb3 ', window.tomoWeb3);
   const coinbase = await window.tomoWeb3.eth.coinbase;
   console.log('coinbase address', coinbase);
-  }
-componentDidMount(){
-    console.log('componentDidMount');
-    this.connectWallet();
-  }
+}
+
 ```
